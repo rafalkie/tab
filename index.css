@@ -1,0 +1,8 @@
+.disabled{
+    display: none;
+    background: white;
+}
+.active{
+    color:white;
+    background: red;
+}
